@@ -3,7 +3,7 @@
     <div class="container">
       <div class="flex justify-between items-center">
         <div>
-          <NuxtLink to="/" class="text-xl font-bold ml-12">DayStore</NuxtLink>
+          <NuxtLink to="/" class="text-xl font-bold ml-12">Day Storegame</NuxtLink>
         </div>
 
         <nav class="flex items-center gap-6">
